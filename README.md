@@ -20,6 +20,8 @@
 
 * [Walkthrough](https://drive.google.com/file/d/1oBPQYV8s_Sst1Lmd7esxZUu0PuJnj--6/view)
 
+* [Sample HTML](https://gist.github.com/IzorIzzy/163c8c6efb03effe229bbe6094b2b070)
+
 ## Description
 
 Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.
